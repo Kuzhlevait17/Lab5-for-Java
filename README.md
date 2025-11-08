@@ -1,4 +1,4 @@
-# Lab5-for-Java
+<img width="1157" height="731" alt="image" src="https://github.com/user-attachments/assets/60732632-e6ba-41df-bfa1-11c693ef822c" /># Lab5-for-Java
 
 Лабораторная работа 5. Вариант 6. Выполняла: Кужлева Любовь ИТ-17-2024/ИКНТ/ЛА8-2024/ПР4-2024.
 
@@ -159,5 +159,54 @@
 Тестирование.
 
 Функциональное.
+1. 
+<img width="484" height="555" alt="image" src="https://github.com/user-attachments/assets/6185c417-bf8c-40ac-b5b8-7c6ccf6b5f8f" />
+<img width="543" height="371" alt="image" src="https://github.com/user-attachments/assets/501c94ec-bea2-4f09-a3e2-78ebaca7054f" />
+<img width="529" height="517" alt="image" src="https://github.com/user-attachments/assets/4bd83cef-6475-4cb9-9085-87b93080727c" />
+<img width="517" height="486" alt="image" src="https://github.com/user-attachments/assets/bda8930c-f663-4fa7-ab3e-dcab60be255a" />
+<img width="632" height="602" alt="image" src="https://github.com/user-attachments/assets/d8342745-d1a0-4489-8c2f-a883ecdc7949" />
+<img width="464" height="426" alt="image" src="https://github.com/user-attachments/assets/23a6adef-1c35-426c-917a-25d059811115" />
+
+2.
+<img width="479" height="177" alt="image" src="https://github.com/user-attachments/assets/f15fd68e-694a-4b19-81c7-31684b2a27e2" />
+<img width="480" height="228" alt="image" src="https://github.com/user-attachments/assets/6882f003-c0c4-4798-aac3-fbe836f4da38" />
+<img width="465" height="291" alt="image" src="https://github.com/user-attachments/assets/42104f1b-344e-4192-ae3b-ceceea24c9d4" />
+
+3.
+<img width="561" height="361" alt="image" src="https://github.com/user-attachments/assets/87252574-2955-4a17-b6d0-6fdda54d6f70" />
+<img width="643" height="326" alt="image" src="https://github.com/user-attachments/assets/5316763f-ec25-475c-bb6a-433b1fc4a3b7" />
+<img width="603" height="406" alt="image" src="https://github.com/user-attachments/assets/27ec9e15-1429-41ae-bbb4-b6e92626865c" />
+
+4. Вывод данных для демонстрации корректности.
+<img width="667" height="358" alt="image" src="https://github.com/user-attachments/assets/309b7cec-fbd8-4e01-a34a-39b26742a850" />
+<img width="438" height="162" alt="image" src="https://github.com/user-attachments/assets/40dbb0ac-a360-4c89-9d7d-5ae918ca34d8" />
+<img width="302" height="139" alt="image" src="https://github.com/user-attachments/assets/9860c386-f8b7-4de3-9f84-dc183e33f436" />
+
+5. 
+<img width="491" height="674" alt="image" src="https://github.com/user-attachments/assets/67b43b2b-64b3-4255-aeaa-b7f2d225fb3f" />
+<img width="1098" height="454" alt="image" src="https://github.com/user-attachments/assets/ae42adec-3c12-44c4-b0d9-9ff2e32e0a87" />
+<img width="1091" height="769" alt="image" src="https://github.com/user-attachments/assets/b48807d9-5055-49dd-84f7-5a29cf1562de" />
+<img width="1252" height="757" alt="image" src="https://github.com/user-attachments/assets/cf8fde55-bf83-4ac9-866a-da0574dc7ac3" />
+<img width="1157" height="731" alt="image" src="https://github.com/user-attachments/assets/0d829531-6e4d-4bc3-be57-e54f475cf4fc" />
+наличие остальных букв также можно проверить в текстовом редакторе :)
+
+6. 
+<img width="702" height="629" alt="image" src="https://github.com/user-attachments/assets/80ad5943-2bfd-4f1b-a31b-b3e43ee7a573" />
+<img width="737" height="292" alt="image" src="https://github.com/user-attachments/assets/2043ce29-3ea7-4c58-a6cf-e97d9d477774" />
+<img width="687" height="373" alt="image" src="https://github.com/user-attachments/assets/1e04cbcb-f05b-4b7e-a283-e21e17ac8a4f" />
+
+7.
+<img width="907" height="707" alt="image" src="https://github.com/user-attachments/assets/01b3e946-245d-4bb1-9767-eb9a3c349d9a" />
+<img width="1180" height="395" alt="image" src="https://github.com/user-attachments/assets/84084090-b6a8-4785-a2e9-d841e59274ba" />
 
 Нефункциональное.
+<img width="776" height="766" alt="image" src="https://github.com/user-attachments/assets/6a6cb9e3-46bc-46ea-bdfd-b02458ec6cb1" />
+<img width="799" height="563" alt="image" src="https://github.com/user-attachments/assets/07cd59bd-3d62-4ecd-acaa-93e34326c595" />
+<img width="636" height="306" alt="image" src="https://github.com/user-attachments/assets/74daa151-574f-4617-883a-10f09fb6e4c2" />
+<img width="595" height="522" alt="image" src="https://github.com/user-attachments/assets/4ae06b43-e916-4402-88dc-db1ae495233c" />
+<img width="741" height="201" alt="image" src="https://github.com/user-attachments/assets/fa7cd9ed-b53e-4300-a457-006cd90ad7e7" />
+<img width="770" height="473" alt="image" src="https://github.com/user-attachments/assets/8b41d514-39e2-4260-8d48-b29f37c5c906" />
+<img width="703" height="449" alt="image" src="https://github.com/user-attachments/assets/fd406966-fe61-422e-ada5-def44c60b095" />
+<img width="689" height="517" alt="image" src="https://github.com/user-attachments/assets/cb3478cf-a664-40be-bbe9-d35fdc54c4a9" />
+<img width="460" height="497" alt="image" src="https://github.com/user-attachments/assets/358cfca5-90a3-4267-befc-bdd82c61fd2d" />
+
