@@ -1,4 +1,4 @@
-<img width="1157" height="731" alt="image" src="https://github.com/user-attachments/assets/60732632-e6ba-41df-bfa1-11c693ef822c" /># Lab5-for-Java
+# Lab5-for-Java
 
 Лабораторная работа 5. Вариант 6. Выполняла: Кужлева Любовь ИТ-17-2024/ИКНТ/ЛА8-2024/ПР4-2024.
 
